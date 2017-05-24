@@ -3,7 +3,13 @@
   font-family: sans-serif;
   width: 50%;
 }
-
+.josh {
+  color: purple;
+}
+.sowmy {
+  color: pink;
+  font-style: oblique;
+}
 
 body {
   background-color: #3399cc;
